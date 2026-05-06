@@ -91,3 +91,18 @@ isProject: false
 Наибольшую отдачу обычно дают связка **Postman/Hoppscotch + Swagger Editor + jwt.io + WebSocket-клиент + Mongo Playground + libphonenumber** — они напрямую закрывают типичные точки отладки вашего стека без установки тяжёлых IDE-плагинов.
 
 Если нужно, после согласования плана можно сузить список под одну роль (например, только backend-интеграции или только фронт).
+
+
+
+
+
+----------------
+
+1. swagger ui, editor
+2. json viewer, beautifier
+3. jwt parser, encoder
+4. http request tools - post endpoint, get endpoint, request url
+5. mermaid viewer
+6. websocket server / client
+7. 
+
